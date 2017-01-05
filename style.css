@@ -27,14 +27,29 @@ body {
 /*FONT and TEXT Color*/
 .greytext {
 color: grey;
+font-size: 15px;
+
 }
 
+.RecomShoeTitle {
+color: white
+  }
+.menu {
+color: red;
+font-size: 15px;
+
+}
+
+.Price {
+  color: white
+
+}
 
 /*Images*/
 
 .logoshoe {
-height: 50px;
-width: 100px;
+height: 30px;
+width: 70px;
 
 }
 
