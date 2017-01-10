@@ -66,6 +66,10 @@ font-size: 15px;
 
 }
 
+span {
+  color: black
+  
+}
 
 .logoshoe {
 height: 30px;
@@ -89,3 +93,10 @@ width: 70px;
     height: 200px;
     width: 350px;
   }
+
+
+/*alignment css*/
+
+.recshoealign{
+  display: inline-block;
+}
